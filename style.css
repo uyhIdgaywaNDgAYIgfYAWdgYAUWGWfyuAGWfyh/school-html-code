@@ -51,7 +51,7 @@ background-size:100%;
 .featured-products-container{
   display: flex;
   flex-wrap: wrap;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 60px;
   margin: 50px;
   width: 80%;
