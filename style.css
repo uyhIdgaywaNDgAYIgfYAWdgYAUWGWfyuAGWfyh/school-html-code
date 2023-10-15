@@ -108,8 +108,10 @@ background-size:100%;
   opacity: 0.4;
 }
 .products{
-  background-color: gray;
+  background-color: rgb(34, 33, 33);
   font-family: Arial, Helvetica, sans-serif;
+  color: #ddd;
+  padding-left: 10px;
 
 }
 .about-txt {
@@ -149,5 +151,12 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #a39d95;
   padding: 20px;
+}
+
+.threefiftyz{
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:50px;
+  border-radius: 8px;
 }
 
